@@ -1,0 +1,15 @@
+Condition,Severity,True_class,Pred_benign,Pred_suspicious
+Clean,None,benign,30,0
+Clean,None,suspicious,0,30
+Gaussian,Low,benign,30,0
+Gaussian,Low,suspicious,0,30
+Gaussian,Medium,benign,25,5
+Gaussian,Medium,suspicious,0,30
+Gaussian,High,benign,4,26
+Gaussian,High,suspicious,1,29
+Salt-Pepper,Low,benign,30,0
+Salt-Pepper,Low,suspicious,0,30
+Salt-Pepper,Medium,benign,1,29
+Salt-Pepper,Medium,suspicious,0,30
+Salt-Pepper,High,benign,0,30
+Salt-Pepper,High,suspicious,0,30

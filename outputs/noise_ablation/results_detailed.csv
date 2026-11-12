@@ -1,0 +1,8 @@
+Condition,Severity,Gaussian_sigma_0to255,SaltPepper_pixel_pct,N_test,Accuracy,Precision_suspicious,Recall_suspicious,F1_suspicious,AUC,Macro_precision,Macro_recall,Macro_F1,Precision_benign,Recall_benign,F1_benign,Precision_suspicious,Recall_suspicious,F1_suspicious,TP_suspicious,FP_suspicious,FN_suspicious,TN_suspicious
+Clean,None,,,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,30,0,0,30
+Gaussian,Low,5,,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,30,0,0,30
+Gaussian,Medium,15,,60,0.916667,0.857143,1,0.923077,0.916667,0.928571,0.916667,0.916084,1,0.833333,0.909091,0.857143,1,0.923077,30,5,0,25
+Gaussian,High,25,,60,0.550000,0.527273,0.966667,0.682353,0.550000,0.663636,0.550000,0.455462,0.800000,0.133333,0.228571,0.527273,0.966667,0.682353,29,26,1,4
+Salt-Pepper,Low,,1,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,30,0,0,30
+Salt-Pepper,Medium,,5,60,0.516667,0.508475,1,0.674157,0.516667,0.754237,0.516667,0.369337,1,0.033333,0.064516,0.508475,1,0.674157,30,29,0,1
+Salt-Pepper,High,,10,60,0.500000,0.500000,1,0.666667,0.500000,0.250000,0.500000,0.333333,0,0,0,0.500000,1,0.666667,30,30,0,0

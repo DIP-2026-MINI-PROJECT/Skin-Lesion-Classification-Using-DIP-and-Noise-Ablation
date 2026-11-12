@@ -1,0 +1,8 @@
+Condition,Severity,Accuracy,Precision,Recall,F1,AUC
+Clean,None,1,1,1,1,1
+Gaussian,Low,1,1,1,1,1
+Gaussian,Medium,0.916667,0.857143,1,0.923077,0.916667
+Gaussian,High,0.550000,0.527273,0.966667,0.682353,0.550000
+Salt-Pepper,Low,1,1,1,1,1
+Salt-Pepper,Medium,0.516667,0.508475,1,0.674157,0.516667
+Salt-Pepper,High,0.500000,0.500000,1,0.666667,0.500000

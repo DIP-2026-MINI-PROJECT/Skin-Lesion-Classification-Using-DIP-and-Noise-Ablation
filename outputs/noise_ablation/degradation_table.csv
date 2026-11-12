@@ -1,0 +1,7 @@
+Condition,Severity,Accuracy_drop,Precision_drop,Recall_drop,F1_drop,AUC_drop,Accuracy_pct_drop,Precision_pct_drop,Recall_pct_drop,F1_pct_drop,AUC_pct_drop,McNemar_p_accuracy_vs_clean
+Gaussian,Low,0,0,0,0,0,0,0,0,0,0,1
+Gaussian,Medium,0.083333,0.142857,0,0.076923,0.083333,8.333333,14.285714,0,7.692308,8.333333,0.062500
+Gaussian,High,0.450000,0.472727,0.033333,0.317647,0.450000,45.000000,47.272727,3.333333,31.764706,45.000000,0.000000
+Salt-Pepper,Low,0,0,0,0,0,0,0,0,0,0,1
+Salt-Pepper,Medium,0.483333,0.491525,0,0.325843,0.483333,48.333333,49.152542,0,32.584270,48.333333,0.000000
+Salt-Pepper,High,0.500000,0.500000,0,0.333333,0.500000,50,50,0,33.333333,50,0.000000
